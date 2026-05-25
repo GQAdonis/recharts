@@ -1,9 +1,6 @@
 .DS_Store
 *.log
 node_modules
-umd
-lib
-es6
 bundlewatch-bundles
 coverage
 npm-debug.log
@@ -11,7 +8,6 @@ npm-debug.log
 .idea/
 .vscode/
 .justconf/
-/types
 build
 build-baseline
 storybook/public/
